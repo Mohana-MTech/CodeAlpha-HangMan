@@ -8,7 +8,7 @@
 
 ##  Execution Guide
 I used **Visual Studio Code** to run this project:
-1. Saved the file as `task1.py`.
+1. Saved the file as `HangMan.py`.
 2. Opened the integrated terminal (`View → Terminal`).
 3. Executed the program with:
-   python task1.py
+   python Hangman.py
